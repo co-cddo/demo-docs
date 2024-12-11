@@ -9,7 +9,7 @@ This site is built using [Eleventy](https://www.11ty.dev/) and the [GOV.UK Eleve
 
 ## List of docs
 
-- [Adding content to this site](/docs)
-- [Data Catalogue Metadata](/docs/data-catalogue-metadata)
+- [Adding content to this site](docs)
+- [Data Catalogue Metadata](docs/data-catalogue-metadata)
 
 
