@@ -13,6 +13,7 @@ module.exports = function (eleventyConfig) {
     markdownTemplateEngine: 'njk',
     dir: {
       layouts: 'node_modules/@x-govuk/govuk-eleventy-plugin/layouts'
-    }
+    },
+    pathPrefix: "/demo-docs/"
   }
 }
