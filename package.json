@@ -1,5 +1,19 @@
 {
   "dependencies": {
     "@x-govuk/govuk-eleventy-plugin": "^6.7.0"
-  }
+  },
+  "type": "module",
+  "name": "demo-docs",
+  "version": "1.0.0",
+  "main": "eleventy.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rob Nichols (CDDO)",
+  "license": "ISC",
+  "description": "Demostration documentation site"
 }
