@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@x-govuk/govuk-eleventy-plugin": "^6.7.0"
+  }
+}
